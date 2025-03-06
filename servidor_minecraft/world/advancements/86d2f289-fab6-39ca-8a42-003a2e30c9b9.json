@@ -627,9 +627,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "grimoireofgaia:main/arachne": {
     "criteria": {
-      "shot_arrow": "2025-03-06 22:53:39 +0000"
+      "kill": "2025-03-06 22:37:39 +0000"
     },
     "done": true
   },
@@ -645,9 +645,21 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/arachne": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "kill": "2025-03-06 22:37:39 +0000"
+      "shot_arrow": "2025-03-06 22:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-06 22:58:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-06 23:27:20 +0000"
     },
     "done": true
   },
