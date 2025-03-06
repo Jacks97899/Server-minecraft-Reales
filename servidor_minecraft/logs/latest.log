@@ -1964,3 +1964,14 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Mar2025 22:15:49.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jacks lost connection: Disconnected
 [06Mar2025 22:15:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks left the game
 [06Mar2025 22:17:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Diamonds!]
+[06Mar2025 22:28:25.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuNvrGazO lost connection: Disconnected
+[06Mar2025 22:28:25.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO left the game
+[06Mar2025 22:29:27.586] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@528c6831[id=<null>,name=DuNvrGazO,properties={},legacy=false] (/127.143.76.234:46327) lost connection: Disconnected
+[06Mar2025 22:29:34.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuNvrGazO[/127.143.76.234:57623] logged in with entity id 40239 at (2599.411479945712, -3.0, 498.01537195530835)
+[06Mar2025 22:29:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO joined the game
+[06Mar2025 22:29:34.485] [Server thread/INFO] [Jade/]: Syncing config to DuNvrGazO (86d2f289-fab6-39ca-8a42-003a2e30c9b9)
+[06Mar2025 22:33:36.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Not Today, Thank You]
+[06Mar2025 22:35:03.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Zombie
+[06Mar2025 22:35:03.103] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 22:39:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Arachne
+[06Mar2025 22:39:09.004] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved

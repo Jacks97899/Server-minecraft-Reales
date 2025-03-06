@@ -424,6 +424,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-06 02:00:54 +0000",
       "minecraft:spider": "2025-03-06 01:38:29 +0000",
+      "minecraft:creeper": "2025-03-06 22:45:22 +0000",
+      "minecraft:cave_spider": "2025-03-06 22:35:34 +0000",
       "minecraft:zombie": "2025-03-06 01:33:20 +0000"
     },
     "done": false
@@ -616,6 +618,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-06 22:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-06 22:33:36 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2025-03-06 22:37:39 +0000"
     },
     "done": true
   },
