@@ -1963,3 +1963,4 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Mar2025 22:02:10.662] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
 [06Mar2025 22:15:49.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jacks lost connection: Disconnected
 [06Mar2025 22:15:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks left the game
+[06Mar2025 22:17:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Diamonds!]
