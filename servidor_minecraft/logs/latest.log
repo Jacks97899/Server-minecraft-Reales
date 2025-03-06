@@ -1907,3 +1907,51 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Mar2025 21:22:02.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuNvrGazO[/127.143.76.234:40775] logged in with entity id 2041 at (1170.8850880940486, 63.0, 110.03101206089042)
 [06Mar2025 21:22:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO joined the game
 [06Mar2025 21:22:02.067] [Server thread/INFO] [Jade/]: Syncing config to DuNvrGazO (86d2f289-fab6-39ca-8a42-003a2e30c9b9)
+[06Mar2025 21:27:44.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuNvrGazO: Teleported DuNvrGazO to Jacks]
+[06Mar2025 21:27:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> XD
+[06Mar2025 21:28:04.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> hay un fantasma
+[06Mar2025 21:28:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> thx
+[06Mar2025 21:28:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> wtf
+[06Mar2025 21:28:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> q es eso
+[06Mar2025 21:28:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> encantamientos
+[06Mar2025 21:28:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> bueno
+[06Mar2025 21:28:56.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> bye
+[06Mar2025 21:28:57.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> es como un pergamino que te sueltan los zombies
+[06Mar2025 21:29:21.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> duerme plz
+[06Mar2025 21:29:27.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Sweet Dreams]
+[06Mar2025 21:29:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> te deje un saco de dormir
+[06Mar2025 21:29:36.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> grande
+[06Mar2025 21:30:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Alex's Caves]
+[06Mar2025 21:34:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> los osos estan locos? o ez?
+[06Mar2025 21:34:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Pic-A-Nic Basket?]
+[06Mar2025 21:34:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> con hacha de hierro estan ez
+[06Mar2025 21:36:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Fire Dragon
+[06Mar2025 21:36:45.140] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:37:02.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was turned into KFC by Fire Dragon
+[06Mar2025 21:37:02.871] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:38:37.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO burned to death
+[06Mar2025 21:38:37.771] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:38:37.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuNvrGazO moved wrongly!
+[06Mar2025 21:38:43.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> PUTOS DRAGONES
+[06Mar2025 21:39:13.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> no te dejan agarrar tu tumba?
+[06Mar2025 21:39:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuNvrGazO> ya pude
+[06Mar2025 21:44:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Isn't It Iron Pick]
+[06Mar2025 21:45:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was killed by Hermit Abysswalker using magic
+[06Mar2025 21:45:52.161] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:50:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Acquire Hardware]
+[06Mar2025 21:51:36.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Isn't It Iron Pick]
+[06Mar2025 21:52:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO fell from a high place
+[06Mar2025 21:52:34.606] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:52:51.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuNvrGazO was kicked for floating too long!
+[06Mar2025 21:52:51.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuNvrGazO lost connection: Disconnected
+[06Mar2025 21:52:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO left the game
+[06Mar2025 21:52:51.755] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Mar2025 21:53:01.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuNvrGazO[/127.143.76.234:55111] logged in with entity id 23871 at (2000.085654220847, -16.918545511819875, 464.9622847611283)
+[06Mar2025 21:53:01.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO joined the game
+[06Mar2025 21:53:01.465] [Server thread/INFO] [Jade/]: Syncing config to DuNvrGazO (86d2f289-fab6-39ca-8a42-003a2e30c9b9)
+[06Mar2025 21:55:07.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was shot by Skeleton
+[06Mar2025 21:55:07.362] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:55:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Deathword
+[06Mar2025 21:55:57.057] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:56:12.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Deathword
+[06Mar2025 21:56:12.158] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved

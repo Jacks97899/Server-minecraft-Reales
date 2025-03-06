@@ -338,6 +338,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-03-06 21:36:12 +0000",
+      "rocky_shrubland": "2025-03-06 21:34:04 +0000",
       "highland": "2025-03-06 01:55:25 +0000",
       "jade_cliffs": "2025-03-06 02:05:56 +0000",
       "overgrown_greens": "2025-03-06 02:18:39 +0000",
@@ -347,6 +349,7 @@
       "seasonal_forest": "2025-03-06 01:38:33 +0000",
       "pasture": "2025-03-06 01:20:56 +0000",
       "prairie": "2025-03-06 01:51:37 +0000",
+      "grassland": "2025-03-06 21:39:54 +0000",
       "glowing_grotto": "2025-03-06 02:06:12 +0000"
     },
     "done": false
@@ -445,6 +448,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-03-06 21:27:55 +0000",
       "rotten_flesh": "2025-03-06 01:34:08 +0000"
     },
     "done": false
@@ -517,7 +521,9 @@
       "minecraft:dark_forest": "2025-03-06 02:07:58 +0000",
       "minecraft:river": "2025-03-06 01:48:57 +0000",
       "minecraft:forest": "2025-03-06 01:55:20 +0000",
+      "minecraft:ocean": "2025-03-06 21:39:11 +0000",
       "minecraft:flower_forest": "2025-03-06 01:49:17 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-06 21:31:32 +0000",
       "minecraft:meadow": "2025-03-06 01:56:28 +0000",
       "minecraft:plains": "2025-03-06 02:11:39 +0000"
     },
@@ -568,6 +574,36 @@
   "legendary_monsters:locate_ancient_stronghold": {
     "criteria": {
       "ancient_stronghold": "2025-03-06 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-03-06 21:27:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-06 21:34:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-03-06 21:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-06 21:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-06 21:51:36 +0000"
     },
     "done": true
   },
