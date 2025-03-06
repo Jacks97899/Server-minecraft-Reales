@@ -627,6 +627,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-06 22:53:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-03-06 22:50:57 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-03-06 22:50:57 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/arachne": {
     "criteria": {
       "kill": "2025-03-06 22:37:39 +0000"
