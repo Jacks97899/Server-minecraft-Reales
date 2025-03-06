@@ -444,6 +444,7 @@
       "cooked_beef": "2025-03-06 01:35:18 +0000",
       "baked_potato": "2025-03-06 01:43:21 +0000",
       "bread": "2025-03-06 21:31:14 +0000",
+      "cookie": "2025-03-06 21:59:31 +0000",
       "rotten_flesh": "2025-03-06 21:23:51 +0000",
       "cooked_chicken": "2025-03-06 01:34:14 +0000"
     },
@@ -472,7 +473,8 @@
       "minecraft:skeleton": "2025-03-06 01:38:26 +0000",
       "minecraft:creeper": "2025-03-06 21:27:03 +0000",
       "minecraft:silverfish": "2025-03-06 01:56:27 +0000",
-      "minecraft:zombie": "2025-03-06 01:35:11 +0000"
+      "minecraft:zombie": "2025-03-06 01:35:11 +0000",
+      "minecraft:zombie_villager": "2025-03-06 21:57:01 +0000"
     },
     "done": false
   },
@@ -591,6 +593,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/ender_eye": {
+    "criteria": {
+      "kill": "2025-03-06 21:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-06 21:29:27 +0000"
@@ -600,6 +608,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-06 21:30:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-03-06 21:57:18 +0000"
     },
     "done": true
   },

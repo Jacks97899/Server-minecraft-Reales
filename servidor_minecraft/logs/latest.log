@@ -1955,3 +1955,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Mar2025 21:55:57.057] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
 [06Mar2025 21:56:12.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Deathword
 [06Mar2025 21:56:12.158] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 21:57:18.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has reached the goal [Eye of Darkness]
+[06Mar2025 22:00:39.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2296, y=66, z=558} BlockPos{x=2297, y=64, z=560}
+[06Mar2025 22:00:39.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2296, y=66, z=558} BlockPos{x=2297, y=64, z=560}
+[06Mar2025 22:00:39.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2296, y=66, z=558} BlockPos{x=2297, y=64, z=560}
+[06Mar2025 22:02:10.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was blown up by Creeper
+[06Mar2025 22:02:10.662] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[06Mar2025 22:15:49.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jacks lost connection: Disconnected
+[06Mar2025 22:15:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks left the game
