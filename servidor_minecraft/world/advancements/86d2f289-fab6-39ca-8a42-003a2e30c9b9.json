@@ -450,6 +450,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-06 23:31:37 +0000",
       "bread": "2025-03-06 21:27:55 +0000",
       "rotten_flesh": "2025-03-06 01:34:08 +0000"
     },
@@ -660,6 +661,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-03-06 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-06 23:33:20 +0000"
     },
     "done": true
   },
