@@ -1,0 +1,817 @@
+[06Mar2025 03:15:10.664] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Mar2025 03:15:10.669] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Mar2025 03:15:19.775] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Mar2025 03:15:19.920] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Mar2025 03:15:20.740] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 03:15:20.743] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 03:15:20.744] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 03:15:20.745] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 03:15:21.567] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06Mar2025 03:15:21.571] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 23 dependencies adding them to mods collection
+[06Mar2025 03:15:25.974] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Mar2025 03:15:26.117] [main/ERROR] [mixin/]: Mixin config celestisynth.mixins.json does not specify "minVersion" property
+[06Mar2025 03:15:26.337] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Mar2025 03:15:26.538] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[06Mar2025 03:15:26.539] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[06Mar2025 03:15:26.558] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[06Mar2025 03:15:27.085] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[06Mar2025 03:15:27.088] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[06Mar2025 03:15:27.091] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[06Mar2025 03:15:27.094] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[06Mar2025 03:15:27.095] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[06Mar2025 03:15:27.097] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[06Mar2025 03:15:27.101] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[06Mar2025 03:15:27.104] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[06Mar2025 03:15:27.129] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 164 options available, 0 override(s) found
+[06Mar2025 03:15:27.186] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 03:15:27.269] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 03:15:27.401] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 03:15:27.592] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[06Mar2025 03:15:27.648] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 03:15:27.707] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 03:15:27.713] [main/WARN] [mixin/]: Reference map 'knavesneeds-forge-forge-refmap.json' for knavesneeds.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 03:15:27.923] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 03:15:27.974] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 03:15:29.793] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[06Mar2025 03:15:29.794] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[06Mar2025 03:15:30.426] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/deployer/BeltDeployerCallbacks (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.deployer.BeltDeployerCallbacks)
+[06Mar2025 03:15:30.710] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[06Mar2025 03:15:31.359] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06Mar2025 03:15:32.221] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (28.51 s after launch)
+[06Mar2025 03:15:32.409] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Mar2025 03:15:32.409] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Mar2025 03:15:32.567] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[06Mar2025 03:15:32.567] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[06Mar2025 03:15:34.082] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 03:15:34.083] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 03:15:35.557] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3332 milliseconds
+[06Mar2025 03:15:35.789] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[06Mar2025 03:15:36.261] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 03:15:36.262] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 03:15:39.538] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[06Mar2025 03:15:39.701] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06Mar2025 03:15:40.510] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[06Mar2025 03:15:42.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Mar2025 03:15:42.005] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[06Mar2025 03:15:42.794] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Mar2025 03:15:42.794] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Mar2025 03:15:43.503] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[06Mar2025 03:15:43.507] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[06Mar2025 03:15:43.516] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[06Mar2025 03:15:43.520] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
+[06Mar2025 03:15:43.520] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
+[06Mar2025 03:15:44.060] [modloading-worker-0/INFO] [quark/]: Initializing TerraBlender underground biome compat
+[06Mar2025 03:15:44.149] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
+[06Mar2025 03:15:44.438] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[06Mar2025 03:15:44.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[06Mar2025 03:15:44.442] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[06Mar2025 03:15:44.442] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[06Mar2025 03:15:44.443] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[06Mar2025 03:15:44.451] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[06Mar2025 03:15:44.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[06Mar2025 03:15:44.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[06Mar2025 03:15:44.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[06Mar2025 03:15:44.460] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[06Mar2025 03:15:44.464] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[06Mar2025 03:15:44.465] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[06Mar2025 03:15:44.465] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[06Mar2025 03:15:44.471] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[06Mar2025 03:15:44.472] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[06Mar2025 03:15:44.473] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[06Mar2025 03:15:44.479] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[06Mar2025 03:15:44.481] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[06Mar2025 03:15:44.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[06Mar2025 03:15:44.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[06Mar2025 03:15:44.483] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[06Mar2025 03:15:44.484] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[06Mar2025 03:15:44.484] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[06Mar2025 03:15:44.485] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[06Mar2025 03:15:44.485] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[06Mar2025 03:15:44.486] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[06Mar2025 03:15:44.488] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[06Mar2025 03:15:44.488] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[06Mar2025 03:15:44.490] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[06Mar2025 03:15:44.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[06Mar2025 03:15:44.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[06Mar2025 03:15:44.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[06Mar2025 03:15:44.506] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[06Mar2025 03:15:44.508] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[06Mar2025 03:15:44.509] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.510] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[06Mar2025 03:15:44.511] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[06Mar2025 03:15:44.511] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[06Mar2025 03:15:44.512] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[06Mar2025 03:15:44.512] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[06Mar2025 03:15:44.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[06Mar2025 03:15:44.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[06Mar2025 03:15:44.515] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[06Mar2025 03:15:44.515] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[06Mar2025 03:15:44.515] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[06Mar2025 03:15:44.516] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[06Mar2025 03:15:44.516] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[06Mar2025 03:15:44.517] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[06Mar2025 03:15:44.518] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[06Mar2025 03:15:44.519] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[06Mar2025 03:15:44.520] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[06Mar2025 03:15:44.520] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.521] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[06Mar2025 03:15:44.522] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[06Mar2025 03:15:44.523] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[06Mar2025 03:15:44.524] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.525] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[06Mar2025 03:15:44.530] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[06Mar2025 03:15:44.531] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[06Mar2025 03:15:44.532] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[06Mar2025 03:15:44.532] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[06Mar2025 03:15:44.534] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.534] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[06Mar2025 03:15:44.535] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[06Mar2025 03:15:44.546] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[06Mar2025 03:15:44.546] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[06Mar2025 03:15:44.547] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[06Mar2025 03:15:44.548] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[06Mar2025 03:15:44.549] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[06Mar2025 03:15:44.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[06Mar2025 03:15:44.552] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[06Mar2025 03:15:44.552] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[06Mar2025 03:15:44.553] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[06Mar2025 03:15:44.553] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[06Mar2025 03:15:44.554] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[06Mar2025 03:15:44.554] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[06Mar2025 03:15:44.554] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[06Mar2025 03:15:44.555] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[06Mar2025 03:15:44.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[06Mar2025 03:15:44.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[06Mar2025 03:15:44.563] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[06Mar2025 03:15:44.563] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[06Mar2025 03:15:44.563] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[06Mar2025 03:15:44.564] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[06Mar2025 03:15:44.564] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[06Mar2025 03:15:44.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[06Mar2025 03:15:44.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[06Mar2025 03:15:44.566] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.567] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[06Mar2025 03:15:44.567] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[06Mar2025 03:15:44.572] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.572] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[06Mar2025 03:15:44.572] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[06Mar2025 03:15:44.573] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[06Mar2025 03:15:44.573] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[06Mar2025 03:15:44.573] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[06Mar2025 03:15:44.574] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[06Mar2025 03:15:44.574] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[06Mar2025 03:15:44.574] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[06Mar2025 03:15:44.575] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[06Mar2025 03:15:44.575] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.575] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[06Mar2025 03:15:44.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[06Mar2025 03:15:44.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[06Mar2025 03:15:44.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[06Mar2025 03:15:44.577] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[06Mar2025 03:15:44.580] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[06Mar2025 03:15:44.580] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[06Mar2025 03:15:44.580] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[06Mar2025 03:15:44.581] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[06Mar2025 03:15:44.581] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[06Mar2025 03:15:44.581] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.582] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[06Mar2025 03:15:44.583] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[06Mar2025 03:15:44.586] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[06Mar2025 03:15:44.587] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[06Mar2025 03:15:44.588] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[06Mar2025 03:15:44.589] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[06Mar2025 03:15:44.590] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[06Mar2025 03:15:44.593] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[06Mar2025 03:15:44.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[06Mar2025 03:15:44.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[06Mar2025 03:15:44.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[06Mar2025 03:15:44.595] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[06Mar2025 03:15:44.595] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[06Mar2025 03:15:44.595] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[06Mar2025 03:15:44.597] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[06Mar2025 03:15:44.597] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[06Mar2025 03:15:44.598] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[06Mar2025 03:15:44.601] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[06Mar2025 03:15:44.602] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[06Mar2025 03:15:44.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[06Mar2025 03:15:44.610] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[06Mar2025 03:15:44.610] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[06Mar2025 03:15:44.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[06Mar2025 03:15:44.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[06Mar2025 03:15:44.613] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[06Mar2025 03:15:44.614] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.615] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[06Mar2025 03:15:44.615] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[06Mar2025 03:15:44.617] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[06Mar2025 03:15:44.617] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[06Mar2025 03:15:44.618] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[06Mar2025 03:15:44.619] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[06Mar2025 03:15:44.619] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[06Mar2025 03:15:44.620] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[06Mar2025 03:15:44.623] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[06Mar2025 03:15:44.625] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.626] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[06Mar2025 03:15:44.627] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.627] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[06Mar2025 03:15:44.628] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[06Mar2025 03:15:44.629] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[06Mar2025 03:15:44.630] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[06Mar2025 03:15:44.632] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[06Mar2025 03:15:44.633] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.633] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[06Mar2025 03:15:44.635] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[06Mar2025 03:15:44.636] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[06Mar2025 03:15:44.636] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[06Mar2025 03:15:44.637] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[06Mar2025 03:15:44.637] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[06Mar2025 03:15:44.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[06Mar2025 03:15:44.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[06Mar2025 03:15:44.650] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[06Mar2025 03:15:44.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[06Mar2025 03:15:44.667] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[06Mar2025 03:15:44.669] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[06Mar2025 03:15:44.669] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[06Mar2025 03:15:44.697] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[06Mar2025 03:15:44.698] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[06Mar2025 03:15:44.699] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[06Mar2025 03:15:44.699] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[06Mar2025 03:15:44.701] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[06Mar2025 03:15:44.702] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[06Mar2025 03:15:44.704] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[06Mar2025 03:15:44.704] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[06Mar2025 03:15:44.704] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[06Mar2025 03:15:44.705] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[06Mar2025 03:15:51.570] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[06Mar2025 03:15:51.571] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[06Mar2025 03:15:53.312] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.GlowSquid from class com.nitespring.monsterplus.common.entity.GlowSkeleton
+[06Mar2025 03:15:53.335] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[06Mar2025 03:15:53.873] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[06Mar2025 03:15:54.143] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[06Mar2025 03:15:54.323] [modloading-worker-0/ERROR] [patchouli/]: Failed to load book armorplus:guide_book defined by mod armorplus, skipping
+java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_pack set to false. This behaviour was removed in 1.20. The book author should enable this flag and move all book contents clientside to /assets/, leaving the book.json in /data/. See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.
+	at vazkii.patchouli.common.book.Book.<init>(Book.java:145) ~[Patchouli-1.20.1-84-FORGE.jar%23281!/:1.20.1-84-FORGE]
+	at vazkii.patchouli.common.book.BookRegistry.loadBook(BookRegistry.java:90) ~[Patchouli-1.20.1-84-FORGE.jar%23281!/:1.20.1-84-FORGE]
+	at vazkii.patchouli.common.book.BookRegistry.lambda$init$3(BookRegistry.java:75) ~[Patchouli-1.20.1-84-FORGE.jar%23281!/:1.20.1-84-FORGE]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at vazkii.patchouli.common.book.BookRegistry.init(BookRegistry.java:70) ~[Patchouli-1.20.1-84-FORGE.jar%23281!/:1.20.1-84-FORGE]
+	at vazkii.patchouli.forge.common.ForgeModInitializer.onInitialize(ForgeModInitializer.java:76) ~[Patchouli-1.20.1-84-FORGE.jar%23281!/:1.20.1-84-FORGE]
+	at vazkii.patchouli.forge.common.__ForgeModInitializer_onInitialize_FMLCommonSetupEvent.invoke(.dynamic) ~[Patchouli-1.20.1-84-FORGE.jar%23281!/:1.20.1-84-FORGE]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.3.7.jar%23317!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:125) ~[fmlcore-1.20.1-47.3.7.jar%23316!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Mar2025 03:15:54.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[06Mar2025 03:15:54.990] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Mar2025 03:15:55.042] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Mar2025 03:15:55.042] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Mar2025 03:15:55.042] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[06Mar2025 03:15:55.042] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[06Mar2025 03:15:55.043] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[06Mar2025 03:15:55.043] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[06Mar2025 03:15:55.043] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[06Mar2025 03:15:55.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
+[06Mar2025 03:15:55.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[06Mar2025 03:15:55.110] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 4 for type OVERWORLD
+[06Mar2025 03:15:55.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[06Mar2025 03:15:55.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[06Mar2025 03:15:55.515] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[06Mar2025 03:15:55.516] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[06Mar2025 03:15:55.522] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[06Mar2025 03:15:55.527] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[06Mar2025 03:15:55.528] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.6.3.jar%23289!/:1.20.1-4.6.3]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.6.3.jar%23289!/:1.20.1-4.6.3]
+	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[ShoulderSurfing-Forge-1.20.1-4.6.3.jar%23289!/:1.20.1-4.6.3]
+	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:73) ~[ShoulderSurfing-Forge-1.20.1-4.6.3.jar%23289!/:1.20.1-4.6.3]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.3.7.jar%23317!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:125) ~[fmlcore-1.20.1-47.3.7.jar%23316!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 17 more
+[06Mar2025 03:15:55.568] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[06Mar2025 03:15:55.575] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[06Mar2025 03:15:55.577] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[06Mar2025 03:15:55.577] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06Mar2025 03:15:55.589] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06Mar2025 03:15:55.594] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06Mar2025 03:15:55.595] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
+[06Mar2025 03:15:55.596] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[06Mar2025 03:15:56.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.20
+[06Mar2025 03:15:56.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[06Mar2025 03:15:56.488] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Mar2025 03:15:56.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: OUTDATED Current: 1.6.7 Target: 1.6.9
+[06Mar2025 03:15:56.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[06Mar2025 03:15:56.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[06Mar2025 03:15:56.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[06Mar2025 03:15:56.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[06Mar2025 03:15:56.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[06Mar2025 03:15:56.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: OUTDATED Current: 1.1.3 Target: 1.1.4
+[06Mar2025 03:15:56.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Mar2025 03:15:56.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 8.9.1
+[06Mar2025 03:15:56.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[06Mar2025 03:15:57.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[06Mar2025 03:15:57.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[06Mar2025 03:15:57.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[06Mar2025 03:15:57.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[06Mar2025 03:15:57.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[06Mar2025 03:15:57.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[06Mar2025 03:15:57.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[06Mar2025 03:15:57.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Mar2025 03:15:57.441] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23315!/assets/.mcassetsroot' uses unexpected schema
+[06Mar2025 03:15:57.441] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-minecraft-Reales/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23315!/data/.mcassetsroot' uses unexpected schema
+[06Mar2025 03:15:57.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[06Mar2025 03:15:57.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Mar2025 03:15:57.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06Mar2025 03:15:57.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[06Mar2025 03:15:57.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[06Mar2025 03:15:57.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[06Mar2025 03:15:57.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[06Mar2025 03:15:57.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Mar2025 03:15:58.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[06Mar2025 03:15:58.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[06Mar2025 03:15:58.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[06Mar2025 03:15:58.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[06Mar2025 03:15:58.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[06Mar2025 03:15:58.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.19/thedragonlib-updater.json
+[06Mar2025 03:15:58.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.20.1-1.0.0 Target: null
+[06Mar2025 03:15:58.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.20/update.json
+[06Mar2025 03:15:58.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: OUTDATED Current: 1.20.1-20.0.2 Target: 1.20.2-20.0.2
+[06Mar2025 03:15:58.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgems] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentGems/1.20.x/update.json
+[06Mar2025 03:15:59.129] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgems] Found status: UP_TO_DATE Current: 4.7.0 Target: null
+[06Mar2025 03:16:01.362] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Mar2025 03:16:01.620] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
+[06Mar2025 03:16:02.021] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag curios:spellbook as it is missing following references: celestisynth:celestial_spell_book (from celestisynth-1.20.1-1.3.1.jar)
+[06Mar2025 03:16:02.021] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobsinteraction:brushes as it is missing following references: minecraft:brushes (from alexsmobsinteraction-4.3-all.jar), 
+	#c:brushitems (from alexsmobsinteraction-4.3-all.jar)
+[06Mar2025 03:16:08.702] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[06Mar2025 03:16:08.706] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.709] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.710] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.725] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.726] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.729] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/sai: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.730] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.736] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.738] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.742] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.744] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.746] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.746] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.748] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/katana: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.750] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.751] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.751] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.753] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.754] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.754] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.754] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.755] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/glaive_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.762] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/katana: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.762] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.763] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.764] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.770] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.773] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.773] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.774] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/rapier_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.774] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.775] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.778] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.780] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.791] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/sai_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.793] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/warglaive_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.794] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.796] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/spear: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.798] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.799] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.799] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.800] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.802] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.803] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.803] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.807] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/spear: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.807] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[06Mar2025 03:16:08.809] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.812] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/longsword_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.813] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.815] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/spear: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.815] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.815] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.817] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[06Mar2025 03:16:08.818] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.818] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.819] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/glaive_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.819] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/spear_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.821] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.823] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.824] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.826] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.826] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.828] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.829] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.830] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.830] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.831] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.832] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.833] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/greathammer_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.834] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.836] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.837] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.840] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.840] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.840] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.840] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.841] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/spear: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.841] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.842] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.842] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/sai: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.844] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.844] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/spear: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/glaive_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.847] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.851] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[06Mar2025 03:16:08.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/spear_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.855] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.857] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/twinblade_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.859] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/warglaive_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.860] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/chakram: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.863] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/twinblade_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.865] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.865] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.867] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.868] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[06Mar2025 03:16:08.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.870] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/longsword_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.880] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.881] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.883] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.884] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.887] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.888] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.889] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/claymore: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.890] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.892] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.893] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/halberd_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.897] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.898] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/spear: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.898] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.902] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/sai: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.902] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/halberd: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.903] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/katana: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.904] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.905] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[06Mar2025 03:16:08.905] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/rapier_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/twinblade_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.907] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.908] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/spear: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.910] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.911] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/katana_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.912] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.912] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.912] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.912] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.913] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/cutlass_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.915] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/greathammer_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.916] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.917] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/glaive: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.918] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/sai: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.918] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.919] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.920] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.920] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.921] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.923] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/cutlass_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.927] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[06Mar2025 03:16:08.928] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/spear: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.928] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.928] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2: com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
+[06Mar2025 03:16:08.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/katana: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/halberd_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/sai: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.929] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/longsword_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.930] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.932] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.933] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.933] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.934] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.935] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/greataxe_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.935] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.937] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.937] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.939] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.940] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.940] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.941] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.941] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/scythe_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/halberd_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.946] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/sai: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.947] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.948] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/claymore_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.950] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.950] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.951] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.952] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/sai_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/greataxe_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.955] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.956] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.957] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.959] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.959] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.959] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.961] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.962] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.963] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.964] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.965] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/sai_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/greataxe_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.966] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.967] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/katana: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.968] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/scythe_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.969] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.969] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.969] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/claymore_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.970] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.971] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.971] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/chakram_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.971] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.971] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.972] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.972] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.973] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.973] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.974] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.974] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.974] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.974] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.975] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.975] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/claymore: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:08.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/warglaive_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.977] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.979] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:08.979] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.979] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.979] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.980] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/katana: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.980] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[06Mar2025 03:16:08.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.983] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.983] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/spear_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.984] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.984] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/sai: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe celestisynth:celestial_spellbook: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:ruined_book'
+[06Mar2025 03:16:08.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/greathammer: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.986] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/scythe: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:08.986] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.987] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.990] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.991] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[06Mar2025 03:16:08.992] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.993] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:08.993] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/katana_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.995] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/chakram_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.996] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:08.996] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:08.997] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[06Mar2025 03:16:08.998] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/chakram_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:08.998] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:08.998] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:08.999] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:08.999] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.001] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/longsword: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.002] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.003] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/cutlass_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:09.003] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:09.005] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.007] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.008] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/scythe_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:09.010] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/rapier: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.011] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/claymore_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:09.014] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[06Mar2025 03:16:09.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/chakram: com.google.gson.JsonSyntaxException: Unknown item 'betterend:flaming_ruby_upgrade_smithing_template'
+[06Mar2025 03:16:09.018] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite_diamond/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:cincinnasite_diamond_upgrade_smithing_template'
+[06Mar2025 03:16:09.019] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/cutlass: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.019] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.020] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:09.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/flaming_ruby/katana: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.021] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.021] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:09.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/sai: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/rapier: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:09.023] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/rapier_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:09.024] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.024] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[06Mar2025 03:16:09.025] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.026] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/greathammer_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:09.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/halberd: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.028] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:09.029] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/aeternium/katana_head: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bclib:smithing'
+[06Mar2025 03:16:09.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/glaive: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.031] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/cincinnasite/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.032] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[06Mar2025 03:16:09.033] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/scythe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.034] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:09.034] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[06Mar2025 03:16:09.034] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/terminite/warglaive: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.036] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[06Mar2025 03:16:09.037] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:09.037] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/katana: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:09.038] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betternether/nether_ruby/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betternether:nether_reed_stem'
+[06Mar2025 03:16:09.041] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/longsword: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:09.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:betterend/thallasium/greataxe: com.google.gson.JsonSyntaxException: Unknown item 'betterend:tool_assembly_smithing_template'
+[06Mar2025 03:16:09.043] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[06Mar2025 03:16:09.044] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[06Mar2025 03:16:09.044] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[06Mar2025 03:16:09.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe knavesneeds:soulsweapons/translucent/twinblade: com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
+[06Mar2025 03:16:09.050] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 17 recipes
+[06Mar2025 03:16:09.130] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
+[06Mar2025 03:16:09.332] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4687 recipe advancements
+[06Mar2025 03:16:09.348] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1225 advancements
+[06Mar2025 03:16:09.358] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[06Mar2025 03:16:09.359] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[06Mar2025 03:16:09.376] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[06Mar2025 03:16:09.394] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[06Mar2025 03:16:09.411] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 4 curio entities
+[06Mar2025 03:16:09.412] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Beginning loading of data for data loader: tiered_item_stats
+[06Mar2025 03:16:09.412] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Data loader for tiered_item_stats loaded 0 jsons
+[06Mar2025 03:16:09.482] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
+[06Mar2025 03:16:09.485] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[06Mar2025 03:16:09.486] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[06Mar2025 03:16:09.486] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[06Mar2025 03:16:09.486] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[06Mar2025 03:16:09.487] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[06Mar2025 03:16:09.487] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[06Mar2025 03:16:09.487] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[06Mar2025 03:16:09.488] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[06Mar2025 03:16:09.488] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[06Mar2025 03:16:09.489] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[06Mar2025 03:16:09.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Mar2025 03:16:09.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Mar2025 03:16:09.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Mar2025 03:16:09.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Mar2025 03:16:10.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Mar2025 03:16:10.163] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Mar2025 03:16:10.195] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: req: https://broker.e4mc.link/getBestRelay GET
+[06Mar2025 03:16:10.234] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Mar2025 03:16:10.239] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Mar2025 03:16:10.240] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Mar2025 03:16:10.240] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Mar2025 03:16:10.240] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Mar2025 03:16:10.276] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Mar2025 03:16:10.553] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[06Mar2025 03:16:10.554] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[06Mar2025 03:16:10.554] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[06Mar2025 03:16:10.555] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[06Mar2025 03:16:10.555] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[06Mar2025 03:16:10.556] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[06Mar2025 03:16:10.556] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[06Mar2025 03:16:10.556] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[06Mar2025 03:16:10.557] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[06Mar2025 03:16:10.557] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[06Mar2025 03:16:10.560] [Server thread/INFO] [portb.configlib.ConfigLib/]: Could not find config, falling back to default legacy ruleset
+[06Mar2025 03:16:10.562] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[06Mar2025 03:16:10.566] [Server thread/INFO] [Framework/]: Loading server configs...
+[06Mar2025 03:16:10.617] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06Mar2025 03:16:10.783] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: resp: (GET https://broker.e4mc.link/getBestRelay) 200
+[06Mar2025 03:16:10.784] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: using relay us
+[06Mar2025 03:16:11.311] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Mar2025 03:16:11.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Mar2025 03:16:11.482] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel open: [id: 0x6adaf559, QuicStreamAddress{streamId=0}]
+[06Mar2025 03:16:11.484] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel write complete
+[06Mar2025 03:16:11.540] [nioEventLoopGroup-2-1/WARN] [e4mc_minecraft/]: e4mc running on Dedicated Server; This works, but isn't recommended as e4mc is designed for short-lived LAN servers
+[06Mar2025 03:16:11.540] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: Domain assigned: hire-question.us.e4mc.link
+[06Mar2025 03:16:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Mar2025 03:16:12.706] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[06Mar2025 03:16:14.204] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 03:16:14.205] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 03:16:14.205] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 03:16:14.206] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 03:16:14.699] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1995 ms
+[06Mar2025 03:16:14.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.445s)! For help, type "help"
+[06Mar2025 03:16:14.795] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Mar2025 03:16:14.797] [Server thread/INFO] [com.nitespring.monsterplus.MonsterPlus/]: HELLO from server starting
+[06Mar2025 03:16:14.909] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[06Mar2025 03:16:14.914] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[06Mar2025 03:16:14.915] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[06Mar2025 03:16:14.929] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[06Mar2025 03:16:14.929] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[06Mar2025 03:16:14.930] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[06Mar2025 03:16:14.930] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[06Mar2025 03:16:14.930] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/Server-minecraft-Reales/servidor_minecraft/./config/infernalmobs.cfg
+[06Mar2025 03:16:14.931] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[06Mar2025 03:16:14.933] [Server thread/WARN] [ModernFix/]: Dedicated server took 71.225 seconds to load
+[06Mar2025 03:16:29.748] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06Mar2025 03:16:29.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jacks[/127.179.237.32:42017] logged in with entity id 1292 at (586.8810899973631, 62.0, 217.56004644026208)
+[06Mar2025 03:16:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks joined the game
+[06Mar2025 03:16:30.099] [Server thread/INFO] [Jade/]: Syncing config to Jacks (04b21637-b735-3578-b820-60468e5cd996)
+[06Mar2025 03:18:31.391] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1740, l='ServerLevel[world]', x=499.50, y=50.00, z=155.50]
+[06Mar2025 03:21:12.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Suit Up]
+[06Mar2025 03:21:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Ghost
+[06Mar2025 03:21:16.543] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[06Mar2025 03:22:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks fell from a high place
+[06Mar2025 03:22:15.416] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[06Mar2025 03:23:43.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was turned to stone by Gorgon
+[06Mar2025 03:23:43.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
+[06Mar2025 03:23:43.935] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[06Mar2025 03:25:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks fell from a high place
+[06Mar2025 03:25:40.402] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[06Mar2025 03:28:40.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jacks lost connection: Disconnected
+[06Mar2025 03:28:40.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks left the game
+[06Mar2025 03:28:52.888] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[06Mar2025 03:28:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Mar2025 03:28:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Mar2025 03:28:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Mar2025 03:28:52.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Mar2025 03:28:52.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/gamma_creatures:gamma_dimension
+[06Mar2025 03:28:52.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Mar2025 03:28:52.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Mar2025 03:28:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Mar2025 03:28:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06Mar2025 03:28:52.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gamma_dimension): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Mar2025 03:28:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Mar2025 03:28:53.086] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Mar2025 03:28:53.088] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Mar2025 03:28:53.089] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Mar2025 03:28:53.092] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
