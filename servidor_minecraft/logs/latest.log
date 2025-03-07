@@ -222,3 +222,95 @@
 [07Mar2025 01:11:51.517] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
 [07Mar2025 01:14:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
 [07Mar2025 01:15:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:21:57.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was fireballed by Nine Tails
+[07Mar2025 01:21:57.453] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 01:24:15.588] [Server thread/INFO] [armorplus/]: Charge at: 22
+[07Mar2025 01:24:34.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:24:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to lion44]
+[07Mar2025 01:25:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Tie me to the Mast]
+[07Mar2025 01:26:02.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has completed the challenge [Free Willy]
+[07Mar2025 01:26:12.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks drowned
+[07Mar2025 01:26:12.944] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:26:27.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 drowned whilst trying to escape Cecaelia
+[07Mar2025 01:26:27.206] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 01:27:37.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:27:55.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Mar2025 01:27:58.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was killed by Cecaelia using magic
+[07Mar2025 01:27:58.851] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 01:28:52.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion44 lost connection: Disconnected
+[07Mar2025 01:28:52.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 left the game
+[07Mar2025 01:32:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:32:54.158] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:32:55.114] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:32:55.931] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:32:56.711] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:32:59.497] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:32:59.826] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:33:00.053] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:33:00.277] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:34:32.049] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:34:32.210] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:34:32.365] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:34:32.527] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:34:32.676] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:35:54.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion44[/127.179.237.32:53545] logged in with entity id 116078 at (159.6273636198138, 69.0, -915.6453012678846)
+[07Mar2025 01:35:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 joined the game
+[07Mar2025 01:35:54.628] [Server thread/INFO] [Jade/]: Syncing config to lion44 (6021ccee-e229-3833-a4a3-3e0cb2a7a991)
+[07Mar2025 01:36:01.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion44 lost connection: Disconnected
+[07Mar2025 01:36:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 left the game
+[07Mar2025 01:36:01.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:36:12.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion44[/127.179.237.32:47113] logged in with entity id 116510 at (159.6900843791098, 69.0, -916.2167746732111)
+[07Mar2025 01:36:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 joined the game
+[07Mar2025 01:36:12.674] [Server thread/INFO] [Jade/]: Syncing config to lion44 (6021ccee-e229-3833-a4a3-3e0cb2a7a991)
+[07Mar2025 01:37:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Fire Dragon
+[07Mar2025 01:37:44.545] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:38:18.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has completed the challenge [Great View From Up Here]
+[07Mar2025 01:38:27.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks burned to death
+[07Mar2025 01:38:27.154] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:38:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:38:30.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:39:44.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was incinerated by Fire Dragon
+[07Mar2025 01:39:44.545] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:40:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Fire Dragon
+[07Mar2025 01:40:16.744] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:40:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Fire Dragon
+[07Mar2025 01:40:23.793] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:40:39.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Fire Dragon
+[07Mar2025 01:40:39.095] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:42:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [A Seedy Place]
+[07Mar2025 01:42:59.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1385, y=112, z=-391} BlockPos{x=1386, y=111, z=-391}
+[07Mar2025 01:43:33.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks fell from a high place
+[07Mar2025 01:43:33.255] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:46:35.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was turned to stone by Gorgon
+[07Mar2025 01:46:35.711] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:47:00.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was shot by Overgrown Skeleton
+[07Mar2025 01:47:00.655] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:48:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has reached the goal [Bone Crusher]
+[07Mar2025 01:49:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Gorgon
+[07Mar2025 01:49:16.617] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:49:35.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Zombie
+[07Mar2025 01:49:35.297] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:50:37.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Gorgon
+[07Mar2025 01:50:37.500] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:50:49.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was turned into gorgonzola by Gorgon
+[07Mar2025 01:50:49.550] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:51:07.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Clash of the Titans]
+[07Mar2025 01:51:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:52:42.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Voluntary Exile]
+[07Mar2025 01:53:44.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to lion44]
+[07Mar2025 01:53:46.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:54:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Chompy]
+[07Mar2025 01:54:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [The Parrots and the Bats]
+[07Mar2025 01:54:50.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was energized by Lightning Dragon
+[07Mar2025 01:54:50.491] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:55:04.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Lightning Dragon
+[07Mar2025 01:55:04.145] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:55:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Mine? Mine? Mine?]
+[07Mar2025 01:55:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported DuNvrGazO to Jacks]
+[07Mar2025 01:56:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was struck with lightning by Lightning Dragon
+[07Mar2025 01:56:05.149] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:56:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Mine? Mine? Mine?]
+[07Mar2025 01:56:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was struck with lightning by Lightning Dragon
+[07Mar2025 01:56:56.344] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:57:22.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Lightning Dragon
+[07Mar2025 01:57:22.641] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved

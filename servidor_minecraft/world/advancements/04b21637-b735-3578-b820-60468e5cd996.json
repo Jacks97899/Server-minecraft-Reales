@@ -338,7 +338,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2025-03-07 01:53:23 +0000",
       "floodplain": "2025-03-07 00:51:50 +0000",
+      "highland": "2025-03-07 01:36:02 +0000",
       "jacaranda_glade": "2025-03-06 01:05:41 +0000",
       "old_growth_woodland": "2025-03-07 00:52:35 +0000",
       "overgrown_greens": "2025-03-06 03:25:24 +0000",
@@ -386,6 +388,7 @@
       "minecraft:forest": "2025-03-06 03:19:32 +0000",
       "minecraft:ocean": "2025-03-06 02:07:59 +0000",
       "minecraft:flower_forest": "2025-03-06 01:06:13 +0000",
+      "minecraft:savanna": "2025-03-07 01:33:56 +0000",
       "minecraft:plains": "2025-03-06 02:07:56 +0000"
     },
     "done": false
@@ -482,6 +485,7 @@
       "minecraft:witch": "2025-03-07 00:25:05 +0000",
       "minecraft:silverfish": "2025-03-06 01:56:27 +0000",
       "minecraft:zombie": "2025-03-06 01:35:11 +0000",
+      "minecraft:drowned": "2025-03-07 01:26:32 +0000",
       "minecraft:zombie_villager": "2025-03-06 21:57:01 +0000"
     },
     "done": false
@@ -637,9 +641,33 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-07 01:26:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-03-07 01:25:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-03-07 01:55:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-03-07 00:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-03-07 01:38:18 +0000"
     },
     "done": true
   },
@@ -658,6 +686,36 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-07 00:20:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-07 01:54:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-07 01:25:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-07 01:55:20 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-03-07 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-03-07 01:51:07 +0000"
     },
     "done": true
   },

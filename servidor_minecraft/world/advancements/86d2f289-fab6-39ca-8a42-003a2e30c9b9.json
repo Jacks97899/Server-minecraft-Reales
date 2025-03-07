@@ -338,8 +338,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-03-07 01:43:35 +0000",
       "shrubland": "2025-03-06 21:36:12 +0000",
       "rocky_shrubland": "2025-03-06 21:34:04 +0000",
+      "scrubland": "2025-03-07 01:44:24 +0000",
       "floodplain": "2025-03-07 00:50:06 +0000",
       "highland": "2025-03-06 01:55:25 +0000",
       "jade_cliffs": "2025-03-06 02:05:56 +0000",
@@ -355,6 +357,7 @@
       "prairie": "2025-03-06 01:51:37 +0000",
       "grassland": "2025-03-06 21:39:54 +0000",
       "glowing_grotto": "2025-03-06 02:06:12 +0000",
+      "gravel_beach": "2025-03-07 01:39:46 +0000",
       "rainforest": "2025-03-07 00:50:34 +0000"
     },
     "done": false
@@ -427,6 +430,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-07 01:52:38 +0000",
       "minecraft:skeleton": "2025-03-06 02:00:54 +0000",
       "minecraft:spider": "2025-03-06 01:38:29 +0000",
       "minecraft:creeper": "2025-03-06 22:45:22 +0000",
@@ -461,6 +465,7 @@
       "cooked_beef": "2025-03-06 23:31:37 +0000",
       "apple": "2025-03-07 00:49:54 +0000",
       "bread": "2025-03-06 21:27:55 +0000",
+      "golden_apple": "2025-03-07 01:37:58 +0000",
       "rotten_flesh": "2025-03-06 01:34:08 +0000",
       "cookie": "2025-03-07 01:11:32 +0000"
     },
@@ -733,6 +738,18 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-07 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-07 01:52:42 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2025-03-07 01:46:09 +0000"
     },
     "done": true
   },
