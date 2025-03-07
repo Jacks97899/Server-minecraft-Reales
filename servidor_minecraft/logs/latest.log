@@ -374,3 +374,9 @@
 [07Mar2025 02:27:56.190] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
 [07Mar2025 02:28:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Knowledge of Death]
 [07Mar2025 02:28:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [A Strange Grave Dust]
+[07Mar2025 02:29:18.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Minotaurus
+[07Mar2025 02:29:18.794] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 02:35:05.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuNvrGazO: Set spawn point to 3724, 119, -1426 [0.0] in minecraft:overworld for DuNvrGazO]
+[07Mar2025 02:36:40.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [david150: Teleported david150 to DuNvrGazO]
+[07Mar2025 02:38:33.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 fell from a high place
+[07Mar2025 02:38:33.213] [Server thread/INFO] [tombstone/]: The player david150 has successfully been saved
