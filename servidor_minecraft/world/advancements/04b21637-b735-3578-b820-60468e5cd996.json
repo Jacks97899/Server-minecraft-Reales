@@ -338,7 +338,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "floodplain": "2025-03-07 00:51:50 +0000",
       "jacaranda_glade": "2025-03-06 01:05:41 +0000",
+      "old_growth_woodland": "2025-03-07 00:52:35 +0000",
       "overgrown_greens": "2025-03-06 03:25:24 +0000",
       "coniferous_forest": "2025-03-06 01:03:16 +0000",
       "redwood_forest": "2025-03-06 03:18:58 +0000",
@@ -346,10 +348,12 @@
       "dune_beach": "2025-03-06 01:05:47 +0000",
       "seasonal_forest": "2025-03-06 01:03:01 +0000",
       "pasture": "2025-03-06 01:06:11 +0000",
+      "volcanic_plains": "2025-03-07 00:52:41 +0000",
       "lavender_field": "2025-03-06 02:06:57 +0000",
       "fir_clearing": "2025-03-06 01:05:21 +0000",
       "prairie": "2025-03-06 01:05:27 +0000",
-      "gravel_beach": "2025-03-06 01:49:30 +0000"
+      "gravel_beach": "2025-03-06 01:49:30 +0000",
+      "rainforest": "2025-03-07 00:52:40 +0000"
     },
     "done": false
   },
@@ -471,7 +475,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-06 01:38:26 +0000",
+      "minecraft:spider": "2025-03-07 00:32:59 +0000",
       "minecraft:creeper": "2025-03-06 21:27:03 +0000",
+      "minecraft:witch": "2025-03-07 00:25:05 +0000",
       "minecraft:silverfish": "2025-03-06 01:56:27 +0000",
       "minecraft:zombie": "2025-03-06 01:35:11 +0000",
       "minecraft:zombie_villager": "2025-03-06 21:57:01 +0000"
@@ -581,21 +587,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-03-06 21:44:49 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:main/deathword": {
     "criteria": {
       "kill": "2025-03-06 21:21:52 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/ender_eye": {
-    "criteria": {
-      "kill": "2025-03-06 21:57:18 +0000"
     },
     "done": true
   },
@@ -611,9 +605,57 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-06 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/ender_eye": {
+    "criteria": {
+      "kill": "2025-03-06 21:57:18 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-03-06 21:57:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-03-07 00:25:11 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-03-07 00:25:11 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 00:25:05 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2025-03-07 00:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-07 00:20:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 00:26:55 +0000"
     },
     "done": true
   },

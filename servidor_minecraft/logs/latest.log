@@ -21,3 +21,127 @@
 [07Mar2025 00:05:05.385] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
 [07Mar2025 00:05:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by Cave Spider
 [07Mar2025 00:05:41.534] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:06:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by Cave Spider
+[07Mar2025 00:06:23.735] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:08:32.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion44[/127.179.237.32:38635] logged in with entity id 34250 at (-432.6947943562055, 68.0, -626.6300180500456)
+[07Mar2025 00:08:32.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 joined the game
+[07Mar2025 00:08:32.621] [Server thread/INFO] [Jade/]: Syncing config to lion44 (6021ccee-e229-3833-a4a3-3e0cb2a7a991)
+[07Mar2025 00:08:50.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was shot by Skeleton
+[07Mar2025 00:08:50.594] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:12:28.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion44 moved too quickly! -1.8108345288692362,-10.46870567600643,-0.4419444928555549
+[07Mar2025 00:13:26.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Zombie
+[07Mar2025 00:13:26.695] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:14:15.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: david150[/127.249.134.132:47355] logged in with entity id 41098 at (303.5, 73.0, -173.5)
+[07Mar2025 00:14:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 joined the game
+[07Mar2025 00:14:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Alexs Mobs Interaction]
+[07Mar2025 00:14:15.899] [Server thread/INFO] [Jade/]: Syncing config to david150 (66b06873-8805-3864-9b26-f8411ece25c8)
+[07Mar2025 00:14:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Ice and Fire]
+[07Mar2025 00:14:16.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Rare Find]
+[07Mar2025 00:14:28.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made david150 a server operator
+[07Mar2025 00:14:28.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=304, y=74, z=-172}
+[07Mar2025 00:14:41.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jacks[/127.179.237.32:60233] logged in with entity id 41518 at (815.6136823656203, -54.0, 264.57490339936123)
+[07Mar2025 00:14:41.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks joined the game
+[07Mar2025 00:14:41.930] [Server thread/INFO] [Jade/]: Syncing config to Jacks (04b21637-b735-3578-b820-60468e5cd996)
+[07Mar2025 00:14:44.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was killed by Arachne using magic
+[07Mar2025 00:14:44.765] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:14:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 has made the advancement [Ashes 'n Bones]
+[07Mar2025 00:15:11.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Bone Knight
+[07Mar2025 00:15:11.156] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:15:22.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was fireballed by Flesh Lich
+[07Mar2025 00:15:22.407] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:15:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Arachne
+[07Mar2025 00:15:40.754] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:15:51.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Zombie
+[07Mar2025 00:15:51.596] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:16:01.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Bone Knight
+[07Mar2025 00:16:01.408] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:16:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Arachne
+[07Mar2025 00:16:12.398] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:16:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Bone Knight
+[07Mar2025 00:16:26.601] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:17:41.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was blown up by Creeper
+[07Mar2025 00:17:41.357] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:19:43.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was shot by Skeleton
+[07Mar2025 00:19:43.456] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:20:27.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Ice Bucket Challenge]
+[07Mar2025 00:21:36.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 has made the advancement [Diamonds!]
+[07Mar2025 00:23:30.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 was slain by Raccoon
+[07Mar2025 00:23:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Your First Grave]
+[07Mar2025 00:23:30.854] [Server thread/INFO] [tombstone/]: The player david150 has successfully been saved
+[07Mar2025 00:23:38.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has reached the goal [Here They Come]
+[07Mar2025 00:25:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Ambush]
+[07Mar2025 00:25:14.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 has made the advancement [Acquire Hardware]
+[07Mar2025 00:25:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 was shot by Skeleton
+[07Mar2025 00:25:26.011] [Server thread/INFO] [tombstone/]: The player david150 has successfully been saved
+[07Mar2025 00:25:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 has made the advancement [Magic Writing]
+[07Mar2025 00:25:45.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuNvrGazO[/127.143.76.234:56127] logged in with entity id 54580 at (2615.31340694629, -16.0, 408.78156732789995)
+[07Mar2025 00:25:45.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO joined the game
+[07Mar2025 00:25:45.757] [Server thread/INFO] [Jade/]: Syncing config to DuNvrGazO (86d2f289-fab6-39ca-8a42-003a2e30c9b9)
+[07Mar2025 00:25:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [Acquire Hardware]
+[07Mar2025 00:26:55.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has reached the goal [Strong or Careful]
+[07Mar2025 00:26:55.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks tried to swim in lava to escape Flesh Lich
+[07Mar2025 00:26:55.060] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:28:20.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [Isn't It Iron Pick]
+[07Mar2025 00:29:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 was slain by Oni
+[07Mar2025 00:29:01.904] [Server thread/INFO] [tombstone/]: The player david150 has successfully been saved
+[07Mar2025 00:29:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was shot by Skeleton
+[07Mar2025 00:29:51.951] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:30:03.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 withered away whilst fighting Skeleton
+[07Mar2025 00:30:03.462] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:30:16.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:30:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [Ashes 'n Bones]
+[07Mar2025 00:31:47.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was shot by Skeleton
+[07Mar2025 00:31:47.359] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:34:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Stone Age]
+[07Mar2025 00:34:19.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuNvrGazO moved wrongly!
+[07Mar2025 00:34:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:34:40.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was killed by magic
+[07Mar2025 00:34:40.860] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:34:44.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:34:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 was slain by Zombie
+[07Mar2025 00:34:58.561] [Server thread/INFO] [tombstone/]: The player david150 has successfully been saved
+[07Mar2025 00:35:17.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was killed by magic
+[07Mar2025 00:35:17.152] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:35:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:35:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was killed by magic
+[07Mar2025 00:35:34.206] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:35:34.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was killed by magic
+[07Mar2025 00:35:34.453] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:35:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:35:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was killed by magic
+[07Mar2025 00:35:50.607] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:35:53.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:37:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was killed by magic
+[07Mar2025 00:37:24.906] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:38:27.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Getting an Upgrade]
+[07Mar2025 00:38:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [A Strange Grave Dust]
+[07Mar2025 00:38:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Glow Skeleton
+[07Mar2025 00:38:38.155] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:38:56.595] [Server thread/INFO] [armorplus/]: Charge at: 24
+[07Mar2025 00:41:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [Alex's Caves]
+[07Mar2025 00:42:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [Knowledge raises the soul]
+[07Mar2025 00:43:38.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Mar2025 00:50:47.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Acquire Hardware]
+[07Mar2025 00:50:58.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Isn't It Iron Pick]
+[07Mar2025 00:51:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Ice Bucket Challenge]
+[07Mar2025 00:51:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:52:04.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: david150 lost connection: Disconnected
+[07Mar2025 00:52:04.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 left the game
+[07Mar2025 00:53:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Zombie
+[07Mar2025 00:53:20.596] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 00:54:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Lightning Dragon
+[07Mar2025 00:54:11.444] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:54:37.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has reached the goal [Strong or Careful]
+[07Mar2025 00:54:37.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was struck with lightning by Lightning Dragon
+[07Mar2025 00:54:37.945] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 00:54:43.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by Lightning Dragon
+[07Mar2025 00:54:43.621] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:55:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Lightning Dragon
+[07Mar2025 00:55:02.595] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:55:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Lightning Dragon
+[07Mar2025 00:55:26.494] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 00:55:32.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was energized by Lightning Dragon
+[07Mar2025 00:55:32.194] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 00:55:51.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by Lightning Dragon
+[07Mar2025 00:55:51.844] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 00:56:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Dragonslayer]
