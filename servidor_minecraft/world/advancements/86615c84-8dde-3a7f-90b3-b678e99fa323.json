@@ -341,7 +341,9 @@
       "floodplain": "2025-03-07 00:50:20 +0000",
       "highland": "2025-03-06 23:29:11 +0000",
       "jade_cliffs": "2025-03-06 23:31:25 +0000",
+      "old_growth_woodland": "2025-03-07 00:58:07 +0000",
       "overgrown_greens": "2025-03-06 23:36:53 +0000",
+      "mediterranean_forest": "2025-03-07 01:03:04 +0000",
       "coniferous_forest": "2025-03-06 23:06:33 +0000",
       "redwood_forest": "2025-03-06 23:57:24 +0000",
       "seasonal_forest": "2025-03-06 23:06:02 +0000",
@@ -401,6 +403,7 @@
       "minecraft:ocean": "2025-03-07 00:01:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-06 23:57:21 +0000",
       "minecraft:meadow": "2025-03-06 23:26:52 +0000",
+      "minecraft:savanna": "2025-03-07 01:02:59 +0000",
       "minecraft:plains": "2025-03-06 23:25:54 +0000"
     },
     "done": false

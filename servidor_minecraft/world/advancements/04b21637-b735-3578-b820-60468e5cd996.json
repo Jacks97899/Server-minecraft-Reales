@@ -342,6 +342,7 @@
       "jacaranda_glade": "2025-03-06 01:05:41 +0000",
       "old_growth_woodland": "2025-03-07 00:52:35 +0000",
       "overgrown_greens": "2025-03-06 03:25:24 +0000",
+      "mediterranean_forest": "2025-03-07 01:04:23 +0000",
       "coniferous_forest": "2025-03-06 01:03:16 +0000",
       "redwood_forest": "2025-03-06 03:18:58 +0000",
       "aspen_glade": "2025-03-06 01:04:11 +0000",
@@ -380,6 +381,7 @@
       "minecraft:birch_forest": "2025-03-06 03:25:22 +0000",
       "minecraft:beach": "2025-03-06 02:08:14 +0000",
       "minecraft:river": "2025-03-06 01:05:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-07 00:57:49 +0000",
       "minecraft:cold_ocean": "2025-03-06 01:50:18 +0000",
       "minecraft:forest": "2025-03-06 03:19:32 +0000",
       "minecraft:ocean": "2025-03-06 02:07:59 +0000",
@@ -641,6 +643,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 01:08:25 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/mimic": {
     "criteria": {
       "kill": "2025-03-07 00:26:00 +0000"
@@ -650,6 +658,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-07 00:20:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-03-07 00:56:15 +0000"
     },
     "done": true
   },

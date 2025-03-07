@@ -145,3 +145,80 @@
 [07Mar2025 00:55:51.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by Lightning Dragon
 [07Mar2025 00:55:51.844] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
 [07Mar2025 00:56:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Dragonslayer]
+[07Mar2025 00:59:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 00:59:50.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Deepling Brute
+[07Mar2025 00:59:50.845] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:00:05.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Deepling Brute
+[07Mar2025 01:00:05.397] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:00:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Deepling Brute
+[07Mar2025 01:00:21.298] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:00:40.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2763, y=54, z=179} BlockPos{x=2763, y=53, z=179}
+[07Mar2025 01:00:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO drowned whilst trying to escape Deepling Brute
+[07Mar2025 01:00:47.247] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 01:00:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks drowned
+[07Mar2025 01:00:53.896] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[07Mar2025 01:02:16.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was killed by Cecaelia using magic
+[07Mar2025 01:02:16.951] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[07Mar2025 01:02:46.046] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:49.205] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:49.773] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:49.952] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:53.309] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:55.212] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:55.400] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:02:55.597] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:01.212] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:07.758] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:23.615] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:23.797] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:23.953] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:24.143] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:03:37.443] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:04:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:05:30.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Alex's Caves]
+[07Mar2025 01:05:38.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [Once Upon a Cave]
+[07Mar2025 01:05:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO has made the advancement [It Belongs in a Museum]
+[07Mar2025 01:06:04.693] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:05.596] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:05.788] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:05.949] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:06.114] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:06.290] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:06.441] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:06.592] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:06.787] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:06.911] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:07.094] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:07.246] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:07.408] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:07.564] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:07.742] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:07.900] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:08.093] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:08.242] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:08.395] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:08.591] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:08.813] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:09.039] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:09.241] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:09.412] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:09.597] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:09.795] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:09.962] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:10.189] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:10.388] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:10.638] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:10.837] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:06:11.093] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Mar2025 01:08:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has reached the goal [Bone Crusher]
+[07Mar2025 01:08:49.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 has made the advancement [Who You Gonna Call?]
+[07Mar2025 01:09:31.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Revan_0429 lost connection: Disconnected
+[07Mar2025 01:09:31.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 left the game
+[07Mar2025 01:10:17.241] [Server thread/INFO] [armorplus/]: Charge at: 68
+[07Mar2025 01:11:12.191] [Server thread/INFO] [armorplus/]: Charge at: 15
+[07Mar2025 01:11:13.311] [Server thread/INFO] [armorplus/]: Charge at: 17
+[07Mar2025 01:11:14.402] [Server thread/INFO] [armorplus/]: Charge at: 17
+[07Mar2025 01:11:51.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion44 was slain by Oni
+[07Mar2025 01:11:51.517] [Server thread/INFO] [tombstone/]: The player lion44 has successfully been saved
+[07Mar2025 01:14:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]
+[07Mar2025 01:15:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to DuNvrGazO]

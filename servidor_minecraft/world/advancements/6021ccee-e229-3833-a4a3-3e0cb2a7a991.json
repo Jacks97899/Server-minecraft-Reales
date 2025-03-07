@@ -477,7 +477,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-06 01:35:51 +0000",
-      "cooked_beef": "2025-03-06 01:38:54 +0000"
+      "cooked_mutton": "2025-03-07 01:06:24 +0000",
+      "cooked_beef": "2025-03-06 01:38:54 +0000",
+      "cookie": "2025-03-07 01:15:37 +0000"
     },
     "done": false
   },
@@ -527,6 +529,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-03-07 01:04:08 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/bone_knight": {
     "criteria": {
       "kill": "2025-03-07 00:30:47 +0000"
@@ -536,6 +544,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-03-07 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-03-07 01:13:50 +0000"
     },
     "done": true
   },
@@ -560,6 +574,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-07 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-07 01:08:49 +0000"
     },
     "done": true
   },
