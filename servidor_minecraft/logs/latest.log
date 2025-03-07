@@ -364,3 +364,13 @@
 [07Mar2025 02:16:07.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was doomed to fall
 [07Mar2025 02:16:07.889] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
 [07Mar2025 02:18:19.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3721, y=121, z=-1426} BlockPos{x=3720, y=120, z=-1425}
+[07Mar2025 02:22:14.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: david150[/127.249.134.132:46175] logged in with entity id 157800 at (464.813055349483, 28.0, -91.21690841080125)
+[07Mar2025 02:22:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 joined the game
+[07Mar2025 02:22:14.896] [Server thread/INFO] [Jade/]: Syncing config to david150 (66b06873-8805-3864-9b26-f8411ece25c8)
+[07Mar2025 02:22:58.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jacks lost connection: Disconnected
+[07Mar2025 02:22:58.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks left the game
+[07Mar2025 02:23:45.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Suit Up]
+[07Mar2025 02:27:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuNvrGazO was slain by Minotaurus
+[07Mar2025 02:27:56.190] [Server thread/INFO] [tombstone/]: The player DuNvrGazO has successfully been saved
+[07Mar2025 02:28:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Knowledge of Death]
+[07Mar2025 02:28:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [A Strange Grave Dust]
