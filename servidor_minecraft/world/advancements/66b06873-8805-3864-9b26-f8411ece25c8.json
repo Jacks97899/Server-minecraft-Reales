@@ -431,7 +431,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-07 02:48:24 +0000",
-      "porkchop": "2025-03-07 00:39:09 +0000"
+      "porkchop": "2025-03-07 00:39:09 +0000",
+      "cooked_chicken": "2025-03-07 03:13:18 +0000"
     },
     "done": false
   },
@@ -489,6 +490,12 @@
       "minecraft:spider": "2025-03-07 02:59:54 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-03-07 03:08:28 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
