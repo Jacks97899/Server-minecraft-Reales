@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2025-03-07 02:06:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-03-07 01:08:25 +0000"
@@ -698,6 +704,12 @@
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-03-07 01:25:06 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2025-03-07 02:02:44 +0000"
     },
     "done": true
   },
