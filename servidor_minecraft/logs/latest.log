@@ -386,3 +386,11 @@
 [07Mar2025 02:43:02.399] [Server thread/INFO] [armorplus/]: Charge at: 17
 [07Mar2025 02:43:04.808] [Server thread/INFO] [armorplus/]: Charge at: 38
 [07Mar2025 02:45:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: david150 has made the advancement [Monster Hunter]
+[07Mar2025 02:50:11.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Revan_0429[/127.27.169.220:59937] logged in with entity id 172691 at (3050.5500116043354, 56.0, -305.69999998807907)
+[07Mar2025 02:50:11.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 joined the game
+[07Mar2025 02:50:11.776] [Server thread/INFO] [Jade/]: Syncing config to Revan_0429 (86615c84-8dde-3a7f-90b3-b678e99fa323)
+[07Mar2025 02:50:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuNvrGazO: Teleported Revan_0429 to DuNvrGazO]
+[07Mar2025 02:57:06.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 has made the advancement [Sweet Dreams]
+[07Mar2025 02:57:38.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> zzzzzzz
+[07Mar2025 02:58:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by david150
+[07Mar2025 02:58:44.341] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
